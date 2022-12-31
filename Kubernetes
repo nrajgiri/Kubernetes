@@ -39,7 +39,27 @@ kubectl cluster-info
 
 
 gitOps Foudations
-YAML - YAML Ain't Markup Language
+
+YAML - YAML Ain't Markup Language | --,  : -, # 
+data serialization language commonly used to create Kubernetes objects
+YAML stores key value pairs with colon 
+array of items called a sequence and item proceeded by a dash
+object or map of nested key value pairs.
+
+* Create a namespace and deploy an application in our cluster.
+
+jobs:
+  DigitalOcean: 1.25
+  Fairwinds: 2.75
+  Galvanize: 3
+  title:
+    - Director of Instruction
+    - Web Development Instructor
+    - Instructional Designer
+    
+    
+    
+    
 
 
 
