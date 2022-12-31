@@ -1,0 +1,48 @@
+Cloud Native Computing Foundation(CNCF) is part of the Linux Foundation
+---------------------------------------------------------------------
+Kubernetes is cloud native technologies.
+cloud native empower organizations to build and run scalaable application in mordern dynamic enviroments.
+cloud-native techonlgies use cloud computing services to automatically deploy and scale application.
+so that code changes can be quickly and automatically tested and pushed to production instead of waiting for release dates.
+Kubernetes is cloud native technologies.
+
+
+Docker is the container engine that will help us spin up a Kubernetes cluster on our computer.
+minikube lets you run a Kubernetes cluster.
+
+install Docker Desktop
+download minikube using homebrew  - brew install minikube 
+minikube start
+kubectl get nodes
+minikube update-check
+minikube stop
+minikube delete
+
+i have installed minikube on my computer and used to create stop and delete a cluster.
+
+Spin up and explore a minikube cluster.
+
+Make sure docker is running - docker
+create a cluster with minikube - minikube start
+cube control lets you interact with your cluster 
+spin a cluster using a cloud provider(aws)
+
+
+kubectl cluster-info
+
+
+
+
+- Agile
+- DevOps
+- cloud native
+
+
+gitOps Foudations
+YAML - YAML Ain't Markup Language
+
+
+
+
+
+
